@@ -7,4 +7,10 @@ Added another line in local repository
 Added another line in local repository 
 
 Another line added in GITHUB
+
 New line ===============
+=======
+
+
+This line has been added in New Barcnch
+
